@@ -1,0 +1,46 @@
+                /*************STYLE-SHEET**************/
+
+                
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    background-color: #EAF6F6;
+    border-style:dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    height: 2px;   
+}
+
+h1{
+    color: rgb(77, 138, 179);
+    font-size: 80px; 
+}
+
+h3{
+    color: #3781b3;
+    font-size: 40px; 
+}
+
+ol, ul,tr, form, p{
+   color: #ad2d1c;
+   font-size: 25px;
+}
+
+em{
+    font-size: 34px;
+}
+
+.box{
+    background-color: rgba(206, 236, 255, 0.74);
+}
+
+.Submit {
+    background-color: rgb(77, 138, 179);
+}
+
+.emoji {
+    block-size: 90px;
+}
